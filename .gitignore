@@ -5,7 +5,7 @@ __pycache__/
 venv/
 .env/
 .venv/
-# Jupyter Notebook (si llegas a usarlo)
+# Jupyter Notebook 
 .ipynb_checkpoints/
 # IDEs / Editors
 .vscode/
